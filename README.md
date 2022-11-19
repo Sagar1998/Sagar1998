@@ -9,9 +9,9 @@
 
 - 👨‍💻 I'm Currently an Intern at [Nomura](https://www.nomura.com/)
 
-- 🔭 I’m currently working on [Deep Learning](https://github.com/adi-coding25/final-year)
+- 🔭 I’m currently working on [CV Screening](https://github.com/Sagar1998/CV-Screening)
 
-- 🌱 I’m currently learning **R**
+- 🌱 I’m currently learning **Streamlit , Flask and Django**
 
 - 💬 Ask me about **Bash, Python, Java, JavaScript , Machine Learning, Deep Learning**
 
