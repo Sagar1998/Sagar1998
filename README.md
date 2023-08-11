@@ -9,7 +9,7 @@
 
 - 👨‍💻 I'm Currently an Intern at [Nomura](https://www.nomura.com/)
 
-- 🔭 I’m currently working on [CV Screening](https://github.com/Sagar1998/CV-Screening)
+- 🔭 I’m currently working on [CV Screening](https://github.com/Sagar1998/Cv-Scrapers/tree/main)
 
 - 🌱 I’m currently learning **Streamlit , Flask and Django**
 
