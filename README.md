@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_sagar_casm" target="blank"><img src="https://img.shields.io/twitter/follow/_sagar_casm?logo=twitter&style=for-the-badge" alt="_sagar_casm" /></a> </p>
 
-- 👨‍💻 I'm Currently an Associate at [PwC India](https://www.pwc.in/)
+- 👨‍💻 I'm Currently an Data Scientist Consultant at [KPMG Australia]([https://www.pwc.in/](https://kpmg.com/xx/en.html))
+  
+- Ex Cyber Security Consultant at PwC and Ex Software Developer at Nomura Holdings
 
 - 🔭 I’m currently working on [CV Screening](https://github.com/Sagar1998/Cv-Scrapers/tree/main)
 
